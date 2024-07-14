@@ -1,3 +1,1 @@
-This is the learning about version control systems and all.
-this is modified version
-modified again to see difference // to check the difference between staging are and previous commit.
+This is the code that i am leaving here for the master branch, so that when i came back i'll see this text message.
